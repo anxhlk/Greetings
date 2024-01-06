@@ -1,0 +1,42 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "A quest for knowlegde" : {
+
+    },
+    "Are you ready to, !" : {
+
+    },
+    "Boom." : {
+
+    },
+    "Exploring iOS Programming" : {
+
+    },
+    "Greetings!" : {
+
+    },
+    "Hello there!" : {
+
+    },
+    "Hummus!" : {
+
+    },
+    "Learning how to bake" : {
+
+    },
+    "Peace!" : {
+
+    },
+    "Programming recipes" : {
+
+    },
+    "start exploring?" : {
+
+    },
+    "Welcome to Swift Programming!" : {
+
+    }
+  },
+  "version" : "1.0"
+}
